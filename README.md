@@ -20,8 +20,7 @@ A fully functional CLI tool built with Node.js and TypeScript, following Object-
     ```
     This will allow you to run the `mycli` command globally on your machine from any directory. Alternatively, you can run `./dist/cli.js` directly or use `npm start -- <command>`.
 
-## Available Commands
-
+## Available Commands:
 *   `mycli greet <name>` - Greet a person by name.
 *   `mycli fileinfo <filename>` - Get basic information about a file in your current directory.
 *   `mycli github <username>` - Fetch GitHub user profile information. *(API #1)*
